@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.1",
   "url": "https://expo.dev/artifacts/eas/CKpTVZKSDo94n8bK55-I2KocDMmMsGo0NIA5uHwFsg8.apk",
   "notes": "Test — required update screen.",
-  "required": true
+  "required": false
 }
