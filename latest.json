@@ -1,6 +1,7 @@
-  {
-    "version": "1.0.1",
-    "url": "https://img.magnific.com/free-photo/closeup-yawning-baboon-monkey-with-blurred-background_181624-23721.jpg",
-    "notes": "Full-screen fixes, and a player that no longer gets stuck after you leave the app.",
-    "required": true
-  }
+ {
+{
+  "version": "1.0.2",
+  "url": "https://expo.dev/artifacts/eas/CKpTVZKSDo94n8bK55-I2KocDMmMsGo0NIA5uHwFsg8.apk",
+  "notes": "Test — required update screen.",
+  "required": true
+}
